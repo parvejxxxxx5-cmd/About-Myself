@@ -8,7 +8,7 @@
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Guru-F2C811?style=for-the-badge&logo=powerbi)
 ![Machine%20Learning](https://img.shields.io/badge/ML-Andrew%20Ng%20Specialization-FF6F00?style=for-the-badge&logo=coursera)
 
-### Current War Path (Dec 2025 → May 2026)
+### Current War Path (Sep 2025 → May 2026)
 - Finish Google Data Analytics Professional Certificate (6/8 done ✅)
 - Complete Andrew Ng Machine Learning Specialization (Stanford + DeepLearning.AI)  
 - Become absolute monster in Excel → SQL → Power BI (PL-300 ready)
