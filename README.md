@@ -1,6 +1,6 @@
 # About-Myself
 # Hey 👋, I'm Parvej Alam  
-**IIT Madras BS Data Science & Applications '29** | 4 AM warrior | Certificates → Skils → Projects → Offers 🔥
+**IIT Madras BS Data Science & Applications '29** | 4 AM warrior | Certificates → Skills → Projects → Offers 🔥
 
 ![IIT Madras](https://img.shields.io/badge/IIT%20Madras-BS%20Data%20Science%20%26%20Applications-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python)
